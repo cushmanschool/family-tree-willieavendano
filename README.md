@@ -37,7 +37,6 @@ This project involves creating a Family Tree Manager in Java that allows users t
 ## Submission Guidelines
 - Include all Java source files in your submission.
 - Your code should be well-commented, explaining the implementation and logic, especially for recursive parts.
-- Submit a short report detailing your design decisions, how you implemented recursion and inheritance, and any challenges you encountered.
 
 ## Additional Notes
 - Consider edge cases in your tree structure, such as handling members with no known parents.
